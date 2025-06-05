@@ -7,4 +7,4 @@ Here is a genuine portfolio HTML only of about me, my work, and real world & sam
  - [x] HTML
 
 ## Web Link:
-[https://dev-isaiah.github.io/Tea-Cozy/](https://dev-isaiah.github.io/portfolio-html-only/)
+https://dev-isaiah.github.io/portfolio-html-only/
